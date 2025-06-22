@@ -59,7 +59,7 @@ Here is a list of animations available in the library:
    ```
 
    * install requirements.txt
-   
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -81,7 +81,7 @@ Here is a list of animations available in the library:
 ### 1. Import the Library
 
 ```python
-from animations import Animations
+from anim import Animations
 ```
 
 ### 2. Initialize the Animation Object
